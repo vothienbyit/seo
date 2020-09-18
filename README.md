@@ -611,4 +611,4 @@ New features coming in v1.1
 
 
 ## License:
-[MIT](https://github.com/melbahja/seo/blob/master/LICENSE) Copyright (c) 2019 Mohamed Elbahja
+[MIT](https://github.com/melbahja/seo/blob/master/LICENSE) Copyright (c) 2019 B
