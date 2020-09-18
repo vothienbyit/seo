@@ -1,5 +1,5 @@
 # PHP SEO 
-[![Build Status](https://github.com/melbahja/seo/workflows/Test/badge.svg)](https://github.com/melbahja/seo/actions?query=workflow%3ATest) [![GitHub license](https://img.shields.io/github/license/melbahja/seo)](https://github.com/melbahja/seo/blob/master/LICENSE) ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/melbahja/seo) ![Packagist Version](https://img.shields.io/packagist/v/melbahja/seo) [![Twitter](https://img.shields.io/twitter/url/https/github.com/melbahja/seo.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmelbahja%2Fseo)
+[![Build Status](https://bannhanhsi.com)](https://bannhanhsi.com) [![GitHub license](https://img.shields.io/github/license/melbahja/seo)](https://github.com/melbahja/seo/blob/master/LICENSE) ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/melbahja/seo) ![Packagist Version](https://img.shields.io/packagist/v/melbahja/seo) [![Twitter](https://img.shields.io/twitter/url/https/github.com/melbahja/seo.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fmelbahja%2Fseo)
 
 Simple PHP library to help developers 🍻 do better on-page SEO optimization
 
